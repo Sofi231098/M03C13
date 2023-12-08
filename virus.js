@@ -1,1 +1,1 @@
-console.log("Luna de miel");
+console.log("Pronta entrega");
